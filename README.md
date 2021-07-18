@@ -1,5 +1,5 @@
 <p align="center"><a href="https://ankushsinghgandhi.github.io">
-    <img src="https://raw.githubusercontent.com/praveengupta1/praveengupta1/main/images/name.jpg" />
+    <img src="https://github.com/praveengupta1/praveengupta1/blob/main/images/name.jpg" />
   </a>
 
 ### Glad to see you here! &nbsp;
