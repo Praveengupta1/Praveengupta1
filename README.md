@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ankushsinghgandhi.github.io">
+<p align="center"><a href="https://praveengupta1.github.io">
     <img src="https://github.com/praveengupta1/praveengupta1/blob/main/images/name.jpg" />
   </a>
 
