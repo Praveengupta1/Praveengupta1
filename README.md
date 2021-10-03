@@ -4,9 +4,9 @@
 
 ### Glad to see you here! &nbsp;
 
-I am pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development and competitive programming. I enjoy learning about new technology and applying them to real-world situations. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I am pleased to assist you.
+I am pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development and competitive programming. I enjoy learning about new technology.If you have any questions about technology, I am pleased to assist you.
 
-I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
+
 
 ## Programming Language and skills
 
