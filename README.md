@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development and competitive programming. I enjoy learning about new technology.If you have any questions about technology, I am pleased to assist you.
+I am pursuing a Bachelor's degree in Computer Engineering and I am interested in a variety of technologies and topics. My areas of expertise include software development and competitive programming. I enjoy learning about new technology.If you have any questions about technology, I am pleased to assist you.
 
 
 
