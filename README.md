@@ -39,7 +39,7 @@ I am pursuing a Bachelor's degree in Computer Engineering and I am interested in
 
 #### 🏆 Github Status
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=praveen4star&show_icons=true&hide_border=true&count_private=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=praveen4star&show_icons=true&hide_border=false&count_private=true)
 
 <p align="center">
 
